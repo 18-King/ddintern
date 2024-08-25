@@ -24,9 +24,6 @@ To use the Drug Interaction Checker, simply add the name of the medications you 
 ### Contributing
 If you would like to contribute to this project, please feel free to fork the repository and submit a pull request with your changes. I welcome contributions from anyone who is interested in improving the website.
 
-### License
-This project is licensed under the MIT License. Feel free to use it however you like.
-
 ### Note
 The results of interactions are based on the current knowledge and some interactions that do exist may have not been identified. Information provided here is for reference and researches only, not any medical advice.
 
