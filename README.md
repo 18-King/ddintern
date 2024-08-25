@@ -9,6 +9,7 @@ This Next.js project website is designed to help users find the interaction betw
 To get started, clone the project repository and run `npm install` in the root directory to install all dependencies. Then run `npm run dev` to start the development server. The website will be available at `http://localhost:3000.`
 
 ### Technology Used
+
 - Nextjs
 - Bootstrap 5
 - MongoDB
@@ -16,18 +17,23 @@ To get started, clone the project repository and run `npm install` in the root d
 - Python
 
 ### Usage
+
 To use the Drug Interaction Checker, simply add the name of the medications you are taking using the input field and click "Check Interactions". The website will then display a list of potential drug interactions, along with information about the severity of the interaction.
 
 ### Data Sources
-- [DDInter](http://ddinter.scbdd.com/) database.
+
+- [DDInter](http://ddinter.scbdd.com/) database
 
 ### Contributing
+
 If you would like to contribute to this project, please feel free to fork the repository and submit a pull request with your changes. I welcome contributions from anyone who is interested in improving the website.
 
 ### Note
+
 The results of interactions are based on the current knowledge and some interactions that do exist may have not been identified. Information provided here is for reference and researches only, not any medical advice.
 
 ### Example to view all interactions:
+
 - Aluminum hydroxide
 - Dolutegravir
 - Aprepitant
